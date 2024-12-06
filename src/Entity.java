@@ -1,3 +1,3 @@
 public class Entity {
-    private Stats myStats
+    private Stats myStats;
 }

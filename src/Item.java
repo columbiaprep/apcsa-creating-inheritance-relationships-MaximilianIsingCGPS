@@ -1,5 +1,5 @@
 public class Item {
-    private  double weight
-    private int cost
-    private StatModifiers itemStatMods
+    private  double weight;
+    private int cost;
+    private StatModifiers itemStatMods;
 }
